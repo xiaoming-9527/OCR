@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/recognizer/crnn/ocr.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/recognizer/crnn/test_images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/recognizer/crnn/test_result/test_images/5f1fbb9cffeca5baa9c9b2bf-17.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/recognizer/crnn/test_result/test_images/5f1fbdb3ffeca5baa9c9f9c4-5.txt" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
